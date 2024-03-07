@@ -1,0 +1,18 @@
+
+{
+    "mod_menu":"mods/customizationmod/themes/Kirin/compatibility/mod_menu.png",
+    "menu_gui":"mods/customizationmod/themes/Kirin/menu_gui.png",
+    "idle_lovelust_button_1":"mods/customizationmod/themes/Kirin/lovelustchanger/idle_button_1.png",
+    "hover_lovelust_button_1":"mods/customizationmod/themes/Kirin/lovelustchanger/hover_button_1.png",
+    "idle_lovelust_button_2":"mods/customizationmod/themes/Kirin/lovelustchanger/idle_button_2.png",
+    "hover_lovelust_button_2":"mods/customizationmod/themes/Kirin/lovelustchanger/hover_button_2.png",
+    "game_menu_molly_1":"mods/mhb/menu/game_menu_molly_1.png",
+    "game_menu_molly_2":"mods/customizationmod/themes/Kirin/mhb/menu/game_menu_molly_2.png",
+    "menu_MHB_1":"mods/customizationmod/themes/Kirin/mhb/menu/menu_MHB_1.png",
+    "menu_MHB_2":"mods/customizationmod/themes/Kirin/mhb/menu/menu_MHB_2.png",
+    "mhb_button_1_1":"mods/customizationmod/themes/Kirin/mhb/menu/mhb_button_1_1.png",
+    "mhb_button_1_2":"mods/customizationmod/themes/Kirin/mhb/menu/mhb_button_1_2.png",
+    "idle_mhb_button_2":"mods/customizationmod/themes/Kirin/mhb/menu/idle_mhb_button_2.png",
+    "hover_mhb_button_2":"mods/customizationmod/themes/Kirin/mhb/menu/hover_mhb_button_2.png",
+    "buried":"mods/customizationmod/themes/Kirin/buried.png"
+}
